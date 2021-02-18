@@ -1,0 +1,13 @@
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\bin\Debug\netcoreapp3.1\Multiple-inheritance.exe
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\bin\Debug\netcoreapp3.1\Multiple-inheritance.deps.json
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\bin\Debug\netcoreapp3.1\Multiple-inheritance.runtimeconfig.json
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\bin\Debug\netcoreapp3.1\Multiple-inheritance.runtimeconfig.dev.json
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\bin\Debug\netcoreapp3.1\Multiple-inheritance.dll
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\bin\Debug\netcoreapp3.1\Multiple-inheritance.pdb
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\obj\Debug\netcoreapp3.1\Multiple-inheritance.csprojAssemblyReference.cache
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\obj\Debug\netcoreapp3.1\Multiple-inheritance.AssemblyInfoInputs.cache
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\obj\Debug\netcoreapp3.1\Multiple-inheritance.AssemblyInfo.cs
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\obj\Debug\netcoreapp3.1\Multiple-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\obj\Debug\netcoreapp3.1\Multiple-inheritance.dll
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\obj\Debug\netcoreapp3.1\Multiple-inheritance.pdb
+C:\Users\amora\source\repos\Multiple-inheritance\Multiple-inheritance\obj\Debug\netcoreapp3.1\Multiple-inheritance.genruntimeconfig.cache
